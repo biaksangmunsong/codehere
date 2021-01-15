@@ -5,6 +5,7 @@ publish_mode: editorial_workflow
 media_folder: "/public/images"
 public_folder: /images
 site_url: https://codehere.tech
+logo_url: https://codehere.tech/favicon/ms-icon-310x310.png
 
 collections:
   - name: "home_page"
