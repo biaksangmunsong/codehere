@@ -1,0 +1,67 @@
+{
+  "title": "Codehere",
+  "description": "Codehere is a local community of amazing individuals who have a keen interest in technology, coding and tinkering. The community is driven towards improving knowledge and skills relating to technology and its domain.",
+  "discord_link": "https://discord.gg/n5TmMv",
+  "body": {
+    "intro": {
+      "heading": "**We love** people..\nwho **love to code**",
+      "paragraph": "**Discover** people, **share** your projects, **get help**\nwith your projects and more...",
+      "call_to_action": {
+        "text": "Join our community",
+        "link": "https://discord.gg/n5TmMv"
+      }
+    },
+    "about": {
+      "illustration": {
+        "src": "/images/community.png",
+        "alt": "Tech community illustration",
+        "title": "Tech community illustration"
+      },
+      "heading": "About the community",
+      "paragraph": "**Codehere** is a local community of amazing individuals who have a keen interest in technology, coding and tinkering. The community is driven towards improving knowledge and skills relating to technology and its domain.",
+      "call_to_action": {
+        "text": "Join now",
+        "link": "https://discord.gg/n5TmMv"
+      }
+    },
+    "projects": {
+      "illustration": {
+        "src": "/images/projects.png",
+        "alt": "Project sharing illustration",
+        "title": "Project sharing illustration"
+      },
+      "heading": "Share and Collaborate on projects",
+      "paragraph": "Have an idea worth implementing? Need some help? Share your projects with the community and find like minded individuals to collaborate with. Get tips from more experienced people or better yet help others on their projects.",
+      "call_to_action": {
+        "text": "Join & Share",
+        "link": "https://discord.gg/n5TmMv"
+      }
+    },
+    "discover_people": {
+      "illustration": {
+        "src": "/images/discover.png",
+        "alt": "Discovering people illustration",
+        "title": "Discovering people illustration"
+      },
+      "heading": "Discover people with common interest",
+      "paragraph": "Like programming? Robotics? Web Development? Find people with similar interest and start chatting. Come and be a part of the community.",
+      "call_to_action": {
+        "text": "Join & Discover people",
+        "link": "https://discord.gg/n5TmMv"
+      }
+    },
+    "get_help": {
+      "illustration": {
+        "src": "/images/instant-support.png",
+        "alt": "Instant support illustration",
+        "title": "Instant support illustration"
+      },
+      "heading": "Get help",
+      "paragraph": "Unable to find solution to your problem? Stackoverflow seems daunting? Share your problem to a fresh set of eyes. We all need help. Help and get help.",
+      "call_to_action": {
+        "text": "Join & Get help now",
+        "link": "https://discord.gg/n5TmMv"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "illustration": {
+        "src": "/images/discover.png",
+        "alt": "Discovering people illustration",
+        "title": "Discovering people illustration"
+    },
+    "heading": "Discover people with common interest",
+    "paragraph": "Like programming? Robotics? Web Development? Find people with similar interest and start chatting. Come and be a part of the community.",
+    "call_to_action": {
+        "text": "Join & Discover people",
+        "link": "https://discord.gg/n5TmMv"
+    }
+}

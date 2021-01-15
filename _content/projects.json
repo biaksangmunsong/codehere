@@ -1,0 +1,13 @@
+{
+    "illustration": {
+        "src": "/images/projects.png",
+        "alt": "Project sharing illustration",
+        "title": "Project sharing illustration"
+    },
+    "heading": "Share and Collaborate on projects",
+    "paragraph": "Have an idea worth implementing? Need some help? Share your projects with the community and find like minded individuals to collaborate with. Get tips from more experienced people or better yet help others on their projects.",
+    "call_to_action": {
+        "text": "Join & Share",
+        "link": "https://discord.gg/n5TmMv"
+    }
+}

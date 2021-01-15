@@ -1,0 +1,13 @@
+{
+    "illustration": {
+        "src": "/images/community.png",
+        "alt": "Tech community illustration",
+        "title": "Tech community illustration"
+    },
+    "heading": "About the community",
+    "paragraph": "**Codehere** is a local community of amazing individuals who have a keen interest in technology, coding and tinkering. The community is driven towards improving knowledge and skills relating to technology and its domain.",
+    "call_to_action": {
+        "text": "Join now",
+        "link": "https://discord.gg/n5TmMv"
+    }
+}

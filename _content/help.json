@@ -1,0 +1,13 @@
+{
+    "illustration": {
+        "src": "/images/instant-support.png",
+        "alt": "Instant support illustration",
+        "title": "Instant support illustration"
+    },
+    "heading": "Get help",
+    "paragraph": "Unable to find solution to your problem? Stackoverflow seems daunting? Share your problem to a fresh set of eyes. We all need help. Help and get help.",
+    "call_to_action": {
+        "text": "Join & Get help now",
+        "link": "https://discord.gg/n5TmMv"
+    }
+}
