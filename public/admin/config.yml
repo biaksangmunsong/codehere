@@ -4,7 +4,7 @@ backend:
 publish_mode: editorial_workflow
 media_folder: "/public/images"
 public_folder: /images
-site_url: https://codeheree.netlify.app
+site_url: https://codehere.tech
 
 collections:
   - name: "home_page"
